@@ -68,7 +68,7 @@ min-height: 100vh;
     h1 {
       text-align: center;
       margin: 8px 0 32px;
-      font-family: "VelaSans", sans-serif;
+      font-family: VelaSans-Bold.woff2;
       font-weight: 700;
       font-size: 20px; /* 4px maior que corpo (16px) */
       letter-spacing: 0.5px;
@@ -76,14 +76,14 @@ min-height: 100vh;
 
     h2 {
       margin: 0 0 12px;
-      font-family: "VelaSans", sans-serif;
+      font-family: VelaSans-Bold.woff2;
       font-weight: 700;
       font-size: 18px; /* 2px maior que corpo */
     }
 
     p {
       margin: 0 0 16px;
-      font-family: "VelaSans", sans-serif;
+      font-family: VelaSans-Regular.woff2;
       font-weight: 400;
       font-size: 16px;
     }
