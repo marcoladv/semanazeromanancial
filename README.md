@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Semana Zero</title>
+  <title>Semana Zero1</title>
 
   <!-- Preload fontes -->
   <link rel="preload" href="fonts/vela-sans-regular.woff2" as="font" type="font/woff2" crossorigin>
