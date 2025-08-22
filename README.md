@@ -40,7 +40,8 @@
       margin: 0;
       font-family: "VelaSans", sans-serif;
       line-height: 1.7;
-      background: linear-gradient(90deg, var(--c1) 0%, var(--c1) 33%, var(--c2) 33%, var(--c2) 100%);
+     background-color: var(--c2);
+background-image: linear-gradient(to right, var(--c1) 0 33%, var(--c2) 0 100%);
 min-height: 100vh;
       color: var(--c1); /* cor do texto */
     }
